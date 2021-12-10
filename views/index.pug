@@ -1,0 +1,22 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+  
+    h1 Web Development Projects
+    p A selection of web development projects built using front-end technologies.
+
+
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+
+      each project in projects
+        .cell
+          a(href=`/projects/${project.id}`)
+            img.thumbnail(src=project.image_urls[0], alt=`picture of ${project.project_name} web project`)
+            h5= `${project.project_name}`
+
+
+
+

@@ -1,0 +1,107 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Responsive Mobile First Site",
+      "description": "A simple portfolio site created first for mobile devices and then expanded through media queries for larger screens. Includes some animations and individualized design.",
+      "technologies": ["HTML, CSS"],
+      "live_link": "https://aelizabethian.github.io/Mobile-First-Responsive-Portfolio-Site/",
+      "github_link": "https://github.com/aelizabethian/Mobile-First-Responsive-Portfolio-Site",
+      "image_urls": [
+        "/static/images/MobileFirstDesktop.png",
+        "/static/images/MobileFirstSiteEntirePage.png"
+      ]
+    },
+
+    {
+      "id": 1,
+      "project_name": "Registration Form",
+      "description": "A responsive registration form with some added design flair.",
+      "technologies": ["HTML, CSS"],
+      "live_link": "https://aelizabethian.github.io/ResponsiveRegistrationForm_HTML_CSS_Project3/",
+      "github_link": "https://github.com/aelizabethian/ResponsiveRegistrationForm_HTML_CSS_Project3",
+      "image_urls": [
+        "/static/images/CodeReviewDesktop.png",
+        "/static/images/CodeReviewMobile.png"
+      ]
+    },
+
+    {
+      "id": 2,
+      "project_name": "Random Quote Generator",
+      "description": "An interactive tool to call up random, inspirational quotes and including some randomized design features.",
+      "technologies": ["HTML, CSS, JavaScript"],
+      "live_link": "https://aelizabethian.github.io/RandomQuoteGenerator_Project4/",
+      "github_link": "https://github.com/aelizabethian/RandomQuoteGenerator_Project4",
+      "image_urls": [
+        "/static/images/RandomQuoteDesktop.png",
+        "/static/images/RandomQuoteMobile.png"
+      ]
+    },
+
+    {
+      "id": 3,
+      "project_name": "Accordion FAQ Card",
+      "description": "An accordion card that integrates functionality and design elements.",
+      "technologies": ["HTML, CSS, JavaScript"],
+      "live_link": "https://aelizabethian.github.io/Accordion-Card_HTML_CSS_Javascript/",
+      "github_link": "https://github.com/aelizabethian/Accordion-Card_HTML_CSS_Javascript",
+      "image_urls": [
+        "/static/images/AccordionCardMobile.png",
+        "/static/images/AccordionCardPic2.png"
+      ]
+    },
+
+    {
+      "id": 4,
+      "project_name": "Word Guessing Game",
+      "description": "A simple interactive game with added randomized design features.",
+      "technologies": ["HTML, CSS, JavaScript"],
+      "live_link": "https://aelizabethian.github.io/WordGuessingGame_Project5/",
+      "github_link": "https://github.com/aelizabethian/WordGuessingGame_Project5",
+      "image_urls": [
+        "/static/images/WheelofSuccess.png",
+        "/static/images/WheelofSuccessStart.png",
+        "/static/images/WheelofSuccessWon.png"
+      ]
+    },
+
+    {
+      "id": 5,
+      "project_name": "Tip Calculator",
+      "description": "A tool to calculate tips among one or more people with some added design features.",
+      "technologies": ["HTML, CSS, JavaScript"],
+      "live_link": "https://aelizabethian.github.io/Tip-Calculator/",
+      "github_link": "https://github.com/aelizabethian/Tip-Calculator",
+      "image_urls": [
+        "/static/images/TipCalculator.png",
+        "/static/images/TipCalculatorMobile.png"
+      ]
+    },
+    {
+      "id": 6,
+      "project_name": "Interactive Registration Form",
+      "description": "An interactive form that includes conditional inputs, validation, and calculation. ",
+      "technologies": ["HTML, CSS, JavaScript"],
+      "live_link": "https://aelizabethian.github.io/Techdegree_Project7_InteractiveRegistrationForm/",
+      "github_link": "https://github.com/aelizabethian/Techdegree_Project7_InteractiveRegistrationForm",
+      "image_urls": [
+        "/static/images/FullStackConf.png",
+        "/static/images/FullStackMobileFull.png"
+      ]
+    },
+    {
+      "id": 7,
+      "project_name": "Access and Use a Public API",
+      "description": "An interactive directory of employees pulled from an API, with added design elements.",
+      "technologies": ["HTML, CSS, JavaScript, APIs"],
+      "live_link": "https://aelizabethian.github.io/Access-and-Use-a-Public-API/",
+      "github_link": "https://github.com/aelizabethian/Access-and-Use-a-Public-API",
+      "image_urls": [
+        "/static/images/employeeDirectory.png",
+        "/static/images/EmployeeDirectoryCard.png",
+        "/static/images/EmployeeDirectorySearch.png"
+      ]
+    }
+  ]
+}

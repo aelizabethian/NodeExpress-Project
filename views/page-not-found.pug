@@ -1,0 +1,12 @@
+extends layout.pug 
+
+block content
+  div.errorPage
+    h1 The Page You Requested Could Not Be Found
+    h2= `We've encountered a ${err.status} error`
+    p  Details of the error are below.
+    div.errMsg
+      pre #{err.stack}
+
+
+    a.backHome(href='/') HOME

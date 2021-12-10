@@ -1,0 +1,16 @@
+{
+  "name": "node-static-portfolio-site-built-with-express",
+  "version": "1.0.0",
+  "description": "Node Statis Portfolio Site Built with Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Amanda Richardson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2"
+  }
+}
